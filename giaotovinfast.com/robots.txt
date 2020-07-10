@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /qsvf/
+Sitemap: http://chevroletphumyhung.com.vn/sitemap.txt
